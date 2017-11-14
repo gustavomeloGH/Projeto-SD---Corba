@@ -1,0 +1,8 @@
+module ReverseApp
+{
+  interface Reverse
+  {
+    string reverse(in string phrase);
+    oneway void shutdown();
+  };
+};

@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\gusth\Documents\Nova Roma\5 Período\Sistemas Distribuidos\Projeto Corba\.metadata\.plugins\org.eclipse.jdt.core
+2471967679.index
+1033001717.index
+2964212303.index

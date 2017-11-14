@@ -1,0 +1,8 @@
+module AdditionApp
+{
+  interface Reverse
+  {
+    long add(in long a,in long b);
+    oneway void shutdown();
+    };
+};

@@ -1,0 +1,8 @@
+module AdditionApp
+{
+  interface Reverse
+  {
+    string reverse(in string frase);
+    oneway void shutdown();
+  };
+};

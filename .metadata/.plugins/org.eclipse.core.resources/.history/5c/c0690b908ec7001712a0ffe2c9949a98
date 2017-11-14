@@ -1,0 +1,7 @@
+package br.com.novaroma.Server;
+import br.com.novaroma.ReverseApp.*;
+import org.omg.CORBA.*;
+
+public class StartServer {
+
+}

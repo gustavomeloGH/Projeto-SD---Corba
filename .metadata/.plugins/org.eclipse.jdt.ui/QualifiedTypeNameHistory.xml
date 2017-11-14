@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.omg.PortableServer.POA"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.POAHelper"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NameComponent"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.ORB"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtHelper"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExt"/>
+<fullyQualifiedTypeName name="br.com.novaroma.ReverseApp.Reverse"/>
+<fullyQualifiedTypeName name="br.com.novaroma.ReverseApp.ReverseHelper"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="java.lang.ref.PhantomReference"/>
+</qualifiedTypeNameHistroy>

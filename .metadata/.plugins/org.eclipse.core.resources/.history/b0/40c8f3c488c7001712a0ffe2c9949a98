@@ -1,0 +1,5 @@
+package br.com.novaroma.server;
+
+public class StartServer {
+
+}

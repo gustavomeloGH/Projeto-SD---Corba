@@ -1,0 +1,24 @@
+package br.com.novaroma.Server;
+import br.com.novaroma.ReverseApp.*;
+import org.omg.CORBA.*;
+
+public class ReverseObj extends ReversePOA {
+	 
+	private ORB orb;
+	 
+	  public void setORB(ORB orb_val) {
+	    orb = orb_val; 
+	  }
+	
+	  // implement shutdown() method
+	  public void shutdown() {
+	    orb.shutdown(false);
+	  }
+
+	@Override
+	public String reverse(String phrase) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

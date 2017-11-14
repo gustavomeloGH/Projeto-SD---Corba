@@ -1,0 +1,12 @@
+/ **
+ *
+ * @author Gustavo
+ * /
+módulo AdditionApp 
+{
+  Adição de interface 
+  {
+    longo add ( em long a , em long b );  
+    Oneway void shutdown ();
+    };
+};
